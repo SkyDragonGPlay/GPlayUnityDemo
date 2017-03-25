@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: cd1f05da52417b74dacf67a98bc95742
+timeCreated: 1448414136
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone003(mirrored)
+    100008: Bone004
+    100010: Bone004(mirrored)
+    100012: Bone005
+    100014: Bone005(mirrored)
+    100016: Bone006
+    100018: Bone006(mirrored)
+    100020: Bone007
+    100022: Bone007(mirrored)
+    100024: Bone008
+    100026: Bone009
+    100028: Bone010
+    100030: Bone011
+    100032: Bone012
+    100034: Bone013
+    100036: Bone014
+    100038: Bone015
+    100040: Bone016
+    100042: Bone017
+    100044: Bone018
+    100046: Bone019
+    100048: Bone020
+    100050: Bone021
+    100052: Bone022
+    100054: Bone023
+    100056: Bone024
+    100058: Bone025
+    100060: Bone026
+    100062: Bone027
+    100064: Bone028
+    100066: Bone029
+    100068: Bone030
+    100070: Bone031
+    100072: Bone032
+    100074: Bone033
+    100076: Bone033(mirrored)
+    100078: Bone034
+    100080: Bone034(mirrored)
+    100082: Bone035
+    100084: Bone035(mirrored)
+    100086: Bone036
+    100088: Bone036(mirrored)
+    100090: Bone071
+    100092: Bone072
+    100094: Bone073
+    100096: Bone074
+    100098: Bone075
+    100100: Bone076
+    100102: ExposeTransform001
+    100104: New_qiqi_2.1
+    100106: New_qiqi_Hub001
+    100108: New_qiqi_Hub002
+    100110: New_qiqi_Hub002Bone001
+    100112: New_qiqi_Hub002Bone001Bone001
+    100114: New_qiqi_LArm1
+    100116: New_qiqi_LArm2
+    100118: New_qiqi_LArmCollarbone
+    100120: New_qiqi_LArmIKTarget
+    100122: New_qiqi_LArmPalm
+    100124: New_qiqi_LLeg1
+    100126: New_qiqi_LLeg2
+    100128: New_qiqi_LLegAnkle
+    100130: New_qiqi_LLegDigit11
+    100132: New_qiqi_LLegPlatform
+    100134: New_qiqi_PalmBone001
+    100136: New_qiqi_PalmBone001 1
+    100138: New_qiqi_PalmBone001Bone001
+    100140: New_qiqi_PalmBone001Bone001 1
+    100142: New_qiqi_PalmBone002
+    100144: New_qiqi_PalmBone002 1
+    100146: New_qiqi_PalmBone002Bone001
+    100148: New_qiqi_PalmBone002Bone001 1
+    100150: New_qiqi_RArm1
+    100152: New_qiqi_RArm2
+    100154: New_qiqi_RArmCollarbone
+    100156: New_qiqi_RArmIKTarget
+    100158: New_qiqi_RArmPalm
+    100160: New_qiqi_RLeg1
+    100162: New_qiqi_RLeg2
+    100164: New_qiqi_RLegAnkle
+    100166: New_qiqi_RLegDigit11
+    100168: New_qiqi_Spine2
+    100170: New_qiqi_Spine3
+    100172: New_qiqi_SpineNew_qiqi_Spine1
+    100174: Nqiqi_HEAD_poi
+    100176: Nqiqi_HEAD_poi_
+    100178: Point001
+    100180: Point060
+    100182: Point061
+    100184: Point062
+    100186: Point110
+    100188: Point111
+    100190: Point112
+    100192: Point113
+    100194: Point114
+    100196: Point115
+    100198: Point116
+    100200: Point117
+    100202: Point118
+    100204: Point119
+    100206: Point120
+    100208: Point121
+    100210: Point122
+    100212: Point123
+    100214: Point124
+    100216: Point129
+    100218: Point130
+    100220: Point131
+    100222: Point132
+    100224: Point133
+    100226: Point134
+    100228: Point135
+    100230: Point136
+    100232: Point137
+    100234: Point138
+    100236: Point139
+    100238: Point140
+    100240: Point141
+    100242: Point142
+    100244: Point143
+    100246: Point145
+    100248: Point146
+    100250: Point147
+    100252: Point148
+    100254: Point149
+    100256: Point150
+    100258: qiqi_body
+    100260: //RootNode
+    100262: qiqi_eye_L
+    100264: qiqi_eye_R
+    100266: qiqi_hudiejie
+    100268: qiqi_shetou
+    100270: qiqi_tou
+    100272: qiqi_weiba
+    100274: qiqi_xingxingyanL
+    100276: qiqi_xingxingyanr
+    100278: qiqiBone_eye_L
+    100280: qiqiBone_eye_L_be
+    100282: qiqiBone_eye_L_lc
+    100284: qiqiBone_eye_R
+    100286: qiqiBone_eye_R_be
+    100288: qiqiBone_eye_R_lc
+    100290: qiqiBone_eyeL_lc
+    100292: qiqiBone_eyeR_lcw
+    100294: qiqibone_xiae_001
+    100296: qiqibone_xiae_002
+    100298: qiqibone_xiae_003
+    100300: qiqibone_xiae_004
+    100302: shouL_X
+    100304: shouR_X
+    100306: xxxx_New_qiqi_RLegPlatform
+    100308: han
+    100310: nu
+    100312: Object001
+    100314: Object002
+    100316: Object006
+    100318: Object007
+    100320: Object008
+    100322: Point002
+    100324: Point003
+    100326: Point004
+    100328: Point005
+    100330: Point006
+    100332: Point007
+    100334: Point008
+    100336: Point009
+    100338: Point010
+    100340: Point153
+    100342: Point155
+    100344: Point156
+    100346: Point157
+    100348: Point158
+    100350: qiqi_jinbi L
+    100352: qiqi_jinbi R
+    100354: qiqi_xiao L
+    100356: qiqi_xiao R
+    100358: qiqi_yun L
+    100360: qiqi_yun R
+    100362: yun
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone003(mirrored)
+    400008: Bone004
+    400010: Bone004(mirrored)
+    400012: Bone005
+    400014: Bone005(mirrored)
+    400016: Bone006
+    400018: Bone006(mirrored)
+    400020: Bone007
+    400022: Bone007(mirrored)
+    400024: Bone008
+    400026: Bone009
+    400028: Bone010
+    400030: Bone011
+    400032: Bone012
+    400034: Bone013
+    400036: Bone014
+    400038: Bone015
+    400040: Bone016
+    400042: Bone017
+    400044: Bone018
+    400046: Bone019
+    400048: Bone020
+    400050: Bone021
+    400052: Bone022
+    400054: Bone023
+    400056: Bone024
+    400058: Bone025
+    400060: Bone026
+    400062: Bone027
+    400064: Bone028
+    400066: Bone029
+    400068: Bone030
+    400070: Bone031
+    400072: Bone032
+    400074: Bone033
+    400076: Bone033(mirrored)
+    400078: Bone034
+    400080: Bone034(mirrored)
+    400082: Bone035
+    400084: Bone035(mirrored)
+    400086: Bone036
+    400088: Bone036(mirrored)
+    400090: Bone071
+    400092: Bone072
+    400094: Bone073
+    400096: Bone074
+    400098: Bone075
+    400100: Bone076
+    400102: ExposeTransform001
+    400104: New_qiqi_2.1
+    400106: New_qiqi_Hub001
+    400108: New_qiqi_Hub002
+    400110: New_qiqi_Hub002Bone001
+    400112: New_qiqi_Hub002Bone001Bone001
+    400114: New_qiqi_LArm1
+    400116: New_qiqi_LArm2
+    400118: New_qiqi_LArmCollarbone
+    400120: New_qiqi_LArmIKTarget
+    400122: New_qiqi_LArmPalm
+    400124: New_qiqi_LLeg1
+    400126: New_qiqi_LLeg2
+    400128: New_qiqi_LLegAnkle
+    400130: New_qiqi_LLegDigit11
+    400132: New_qiqi_LLegPlatform
+    400134: New_qiqi_PalmBone001
+    400136: New_qiqi_PalmBone001 1
+    400138: New_qiqi_PalmBone001Bone001
+    400140: New_qiqi_PalmBone001Bone001 1
+    400142: New_qiqi_PalmBone002
+    400144: New_qiqi_PalmBone002 1
+    400146: New_qiqi_PalmBone002Bone001
+    400148: New_qiqi_PalmBone002Bone001 1
+    400150: New_qiqi_RArm1
+    400152: New_qiqi_RArm2
+    400154: New_qiqi_RArmCollarbone
+    400156: New_qiqi_RArmIKTarget
+    400158: New_qiqi_RArmPalm
+    400160: New_qiqi_RLeg1
+    400162: New_qiqi_RLeg2
+    400164: New_qiqi_RLegAnkle
+    400166: New_qiqi_RLegDigit11
+    400168: New_qiqi_Spine2
+    400170: New_qiqi_Spine3
+    400172: New_qiqi_SpineNew_qiqi_Spine1
+    400174: Nqiqi_HEAD_poi
+    400176: Nqiqi_HEAD_poi_
+    400178: Point001
+    400180: Point060
+    400182: Point061
+    400184: Point062
+    400186: Point110
+    400188: Point111
+    400190: Point112
+    400192: Point113
+    400194: Point114
+    400196: Point115
+    400198: Point116
+    400200: Point117
+    400202: Point118
+    400204: Point119
+    400206: Point120
+    400208: Point121
+    400210: Point122
+    400212: Point123
+    400214: Point124
+    400216: Point129
+    400218: Point130
+    400220: Point131
+    400222: Point132
+    400224: Point133
+    400226: Point134
+    400228: Point135
+    400230: Point136
+    400232: Point137
+    400234: Point138
+    400236: Point139
+    400238: Point140
+    400240: Point141
+    400242: Point142
+    400244: Point143
+    400246: Point145
+    400248: Point146
+    400250: Point147
+    400252: Point148
+    400254: Point149
+    400256: Point150
+    400258: qiqi_body
+    400260: //RootNode
+    400262: qiqi_eye_L
+    400264: qiqi_eye_R
+    400266: qiqi_hudiejie
+    400268: qiqi_shetou
+    400270: qiqi_tou
+    400272: qiqi_weiba
+    400274: qiqi_xingxingyanL
+    400276: qiqi_xingxingyanr
+    400278: qiqiBone_eye_L
+    400280: qiqiBone_eye_L_be
+    400282: qiqiBone_eye_L_lc
+    400284: qiqiBone_eye_R
+    400286: qiqiBone_eye_R_be
+    400288: qiqiBone_eye_R_lc
+    400290: qiqiBone_eyeL_lc
+    400292: qiqiBone_eyeR_lcw
+    400294: qiqibone_xiae_001
+    400296: qiqibone_xiae_002
+    400298: qiqibone_xiae_003
+    400300: qiqibone_xiae_004
+    400302: shouL_X
+    400304: shouR_X
+    400306: xxxx_New_qiqi_RLegPlatform
+    400308: han
+    400310: nu
+    400312: Object001
+    400314: Object002
+    400316: Object006
+    400318: Object007
+    400320: Object008
+    400322: Point002
+    400324: Point003
+    400326: Point004
+    400328: Point005
+    400330: Point006
+    400332: Point007
+    400334: Point008
+    400336: Point009
+    400338: Point010
+    400340: Point153
+    400342: Point155
+    400344: Point156
+    400346: Point157
+    400348: Point158
+    400350: qiqi_jinbi L
+    400352: qiqi_jinbi R
+    400354: qiqi_xiao L
+    400356: qiqi_xiao R
+    400358: qiqi_yun L
+    400360: qiqi_yun R
+    400362: yun
+    4300000: qiqi_tou
+    4300002: qiqi_eye_L
+    4300004: qiqi_hudiejie
+    4300006: qiqi_body
+    4300008: qiqi_weiba
+    4300010: qiqi_shetou
+    4300012: qiqi_eye_R
+    4300014: qiqi_xingxingyanL
+    4300016: qiqi_xingxingyanr
+    4300018: nu
+    4300020: yun
+    4300022: han
+    4300024: Object001
+    4300026: Object002
+    4300028: Object006
+    4300030: Object007
+    4300032: Object008
+    4300034: qiqi_xiao R
+    4300036: qiqi_xiao L
+    4300038: qiqi_jinbi L
+    4300040: qiqi_jinbi R
+    4300042: qiqi_yun R
+    4300044: qiqi_yun L
+    9500000: //RootNode
+    13700000: qiqi_body
+    13700002: qiqi_eye_L
+    13700004: qiqi_eye_R
+    13700006: qiqi_hudiejie
+    13700008: qiqi_shetou
+    13700010: qiqi_tou
+    13700012: qiqi_weiba
+    13700014: qiqi_xingxingyanL
+    13700016: qiqi_xingxingyanr
+    13700018: han
+    13700020: nu
+    13700022: Object001
+    13700024: Object002
+    13700026: Object006
+    13700028: Object007
+    13700030: Object008
+    13700032: qiqi_jinbi L
+    13700034: qiqi_jinbi R
+    13700036: qiqi_xiao L
+    13700038: qiqi_xiao R
+    13700040: qiqi_yun L
+    13700042: qiqi_yun R
+    13700044: yun
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
